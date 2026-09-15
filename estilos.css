@@ -24,7 +24,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color:rgb(41, 224, 139);
+    background-color: rgb(172, 252, 190);
 }
 
 main{
@@ -32,7 +32,7 @@ main{
 }
 
 footer { 
-  background-color: rgb(218, 245, 247);
+  background-color: rgb(41, 224, 139);
   padding: 15px 25px; 
 
 } 
