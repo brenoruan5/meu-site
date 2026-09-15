@@ -30,3 +30,9 @@ body {
 main{
     flex: 1;
 }
+
+footer { 
+  background-color: rgb(41, 224, 139);
+  padding: 15px 25px; 
+
+} 
