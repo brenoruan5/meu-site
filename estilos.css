@@ -24,7 +24,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: rgb(172, 252, 190);
+    background-color:rgb(41, 224, 139);
 }
 
 main{
