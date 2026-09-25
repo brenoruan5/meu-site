@@ -52,6 +52,6 @@ footer {
 } 
 
 .cartao-frente, .cartao-verso { 
-  border-radius: 5%; 
-  box-shadow: 0 6px px rgba(7, 43, 7, 0.15); 
+  border-radius: 12%; 
+  box-shadow: 0 6px 12px rgba(7, 43, 7, 0.15); 
 } 
